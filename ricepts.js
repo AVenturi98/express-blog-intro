@@ -19,31 +19,31 @@ const ricepts = [
     {
         title: 'Ciambellone',
         content: '',
-        img: 'ciambellone.jpeg',
+        img: 'images/ciambellone.jpeg',
         tags: ['', '', '']
     },
     {
         title: 'Cracker barbabietola',
         content: '',
-        img: 'cracker_barbabietola.jpeg',
+        img: 'images/cracker_barbabietola.jpeg',
         tags: ['', '', '']
     },
     {
         title: 'Pane fritto dolce',
         content: '',
-        img: 'pane_fritto_dolce.jpeg',
+        img: 'images/pane_fritto_dolce.jpeg',
         tags: ['', '', '']
     },
     {
         title: 'Pasta barbietola',
         content: '',
-        img: 'pasta_barbabietola.jpeg',
+        img: 'images/pasta_barbabietola.jpeg',
         tags: ['', '', '']
     },
     {
         title: 'Torta paesana',
         content: '',
-        img: 'torta_paesana.jpeg',
+        img: 'images/torta_paesana.jpeg',
         tags: ['', '', '']
     }
 ]
